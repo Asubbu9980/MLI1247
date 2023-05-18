@@ -1,0 +1,23 @@
+*,
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-family: 'Pathway Extreme', sans-serif;
+  /* font-family: 'Playfair Display', serif; */
+  font-family: 'Roboto Slab', serif;
+  /* font-family: 'Tilt Neon', cursive; */
+}
+
+a.active{
+  background-color:#2d7788;
+  border-radius: 10px;
+}
+
+form{
+  font-size: large;
+}
+form label{
+  font-weight: 600;
+}
